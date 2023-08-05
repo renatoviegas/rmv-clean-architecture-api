@@ -5,5 +5,8 @@
     "target": "ES2021",
     "esModuleInterop": true,
     "allowJs": true
-  }
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }
